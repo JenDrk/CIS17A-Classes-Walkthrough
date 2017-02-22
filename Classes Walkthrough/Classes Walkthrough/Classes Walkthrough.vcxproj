@@ -111,10 +111,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="classes.cpp" />
+    <ClCompile Include="Course.cpp" />
     <ClCompile Include="student.cpp" />
     <ClCompile Include="Teacher.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Course.h" />
     <ClInclude Include="student.h" />
     <ClInclude Include="Teacher.h" />
   </ItemGroup>
